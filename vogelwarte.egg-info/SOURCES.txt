@@ -1,0 +1,11 @@
+README.rst
+vogelwarte/__init__.py
+vogelwarte/settings.py
+vogelwarte/urls.py
+vogelwarte/wsgi.py
+vogelwarte.egg-info/PKG-INFO
+vogelwarte.egg-info/SOURCES.txt
+vogelwarte.egg-info/dependency_links.txt
+vogelwarte.egg-info/not-zip-safe
+vogelwarte.egg-info/requires.txt
+vogelwarte.egg-info/top_level.txt
