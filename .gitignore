@@ -1,0 +1,4 @@
+*.pyc
+start.sh
+stop.sh
+local_settings.py
